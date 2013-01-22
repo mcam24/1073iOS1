@@ -1,14 +1,14 @@
 This is an example README.md
 
-David Evans / dse4@pitt.edu
+Michael Campbell / mbc17@pitt.edu
 ==================
 
 Three Facts About Me
 ---
 
-*   I was born in Oakland, just a few blocks from the Cathedral
-*   I have two dogs.
-*   I can't stand when people whistle in public.
+*   I grew up in New Castle, PA (it sucks there)
+*   I enjoy doing web design and development and hope to make a career out of it
+*   I'm into a lot of things ranging from fitness and sports to video games and books
 
 ---
 
